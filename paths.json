@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/2025/07/xwalk-july25/:/",
+    "/content/2025/07/xwalk-july25/configuration:/.helix/config.json",
+    "/content/2025/07/xwalk-july25/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/2025/07/xwalk-july25"
   ]
 }
